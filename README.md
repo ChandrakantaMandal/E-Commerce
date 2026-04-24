@@ -81,7 +81,7 @@ Follow these steps to set up the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-project.git
+git clone https://github.com/ChandrakantaMandal/E-Commerce
 cd ecommerce-project
 ```
 
